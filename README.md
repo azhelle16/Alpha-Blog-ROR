@@ -1,4 +1,4 @@
-#Alpha-Blog
+# Alpha-Blog
 
 An application that creates, edits and deletes articles. This application was created as a tutorial on how to:
 
@@ -10,5 +10,5 @@ Current Status of App: In Progress
 
 Developed as part of the Complete Ruby on Rails Development Course In Udemy
 
-##Note
+## Note
 The app includes notes as I go through the course.
